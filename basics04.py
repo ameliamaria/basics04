@@ -13,8 +13,7 @@ print(list_a)
 
 list_a = [1, 2, 3, 4, 5, 6, 7]
 print("#4")
-list_a.reverse()
-print(list_a[1:7:2])
+print(list_a[7:1:-2])
 
 list_a = [1, 2, 3, 4, 5, 6, 7]
 print("#5")
